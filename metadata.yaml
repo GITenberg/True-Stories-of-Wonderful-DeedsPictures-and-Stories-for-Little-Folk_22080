@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22080#True-Stories-of-Wonderful-DeedsPictures-and-Stories-for-Little-Folk
 gutenberg_bookshelf: Children's Anthologies
 gutenberg_issued: '2007-07-16'
 gutenberg_type: Text
